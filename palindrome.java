@@ -19,11 +19,11 @@ class Ideone
 		}
 		if (a==num)
 		{
-			System.out.println("Yes");
+			System.out.println("yes");
 		}
 		else
 		{
-			System.out.println("No");
+			System.out.println("no");
 		}
 	}	
 }
